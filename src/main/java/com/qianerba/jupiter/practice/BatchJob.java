@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.qianerba.jupiter;
+package com.qianerba.jupiter.practice;
 
 import org.apache.flink.api.common.functions.FlatMapFunction;
 import org.apache.flink.api.java.DataSet;
